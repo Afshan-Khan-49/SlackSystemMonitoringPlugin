@@ -1,0 +1,10 @@
+slack:
+  channel:
+    name: <ChannelName>
+  token : <token>
+
+directoryName: </directoryName>
+metrics:
+  limit:
+    dirSpace: 0.1
+
